@@ -1,0 +1,42 @@
+
+msgid "Inicio"
+msgstr "Home"
+
+msgid "Este archivo está en"
+msgstr "Find me in"
+
+msgid "Artículos"
+msgstr "Articles"
+
+msgid "Lenguaje actual"
+msgstr "Current language"
+
+msgid "Cambiar a español"
+msgstr "Change to Spanish"
+
+msgid "Cambiar a inglés"
+msgstr "Change to English"
+
+msgid "Título"
+msgstr "Title"
+
+msgid "Contenido"
+msgstr "Body"
+
+msgid "Ver"
+msgstr "Show"
+
+msgid "Editar"
+msgstr "Edit"
+
+msgid "Eliminar"
+msgstr "Delete"
+
+msgid "Estás seguro?"
+msgstr "Are you sure?"
+
+msgid "Regresar"
+msgstr "Back"
+
+msgid "Nuevo Artículo"
+msgstr "New Article"

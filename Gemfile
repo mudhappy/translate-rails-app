@@ -31,6 +31,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'traco', '~> 5.0' # Translatable columns
 gem 'route_translator' # Route to various languages 
 gem 'friendly_id', '~> 5.2.0' # Pretty URL's
+gem 'gettext_i18n_rails' # Translate text
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'

@@ -10,10 +10,10 @@
   </head>
 
   <body>
-    <p>
-      Lenguaje actual: <%= I18n.locale %> 
-      <%= link_to("Cambiar a inglés", root_en_path) if I18n.locale != :en %>
-      <%= link_to("Cambiar a español", root_es_path) if I18n.locale != :es %>
+    <p> 
+      <%= _("Lenguaje actual") %>: <%= I18n.locale %> 
+      <%= link_to( _('Cambiar a inglés'), root_en_path) if I18n.locale != :en %>
+      <%= link_to( _('Cambiar a español'), root_es_path) if I18n.locale != :es %>
     </p>
     <%= yield %>
   </body>

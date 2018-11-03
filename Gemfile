@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 
 #Translation
 gem 'traco', '~> 5.0' # Translatable columns
+gem 'route_translator' # Route to various languages 
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
